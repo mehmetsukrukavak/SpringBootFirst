@@ -1,4 +1,4 @@
-package com.mehmetsukrukavak.springbootfirst;
+package com.mehmetsukrukavak.springbootfirst.model;
 
 import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
